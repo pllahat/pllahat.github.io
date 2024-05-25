@@ -1,0 +1,24 @@
+/*
+	ics-bibdb-web.css
+*/
+
+body {
+	margin-right: 13px;
+	margin-left: 13px;
+}
+
+.bibdb {
+	padding-bottom: 21px;
+}
+
+.publist { /* EL */
+	line-height: normal;
+	padding-bottom: 0px;
+}
+
+
+.publist-item {
+	list-style: decimal outside none;
+	margin-left: 3.5em;
+	line-height: normal; /* EL */
+}
