@@ -9,10 +9,10 @@ body {
 }
 
 a {
-	color: #006747;
+	color: #9CCB3B;
 }
 a:link {
-  color: #006747;
+  color: #9CCB3B;
   background-color: transparent;
   text-decoration: none;
   %text-decoration-style:wavy;
@@ -185,7 +185,7 @@ h3 {
 	font-weight: bold;
 	padding-bottom: 7px;
 	padding-top: 3px; /* ne */
-	border-top: 9px solid #006747;
+	border-top: 9px solid #9CCB3B;
 }
 
 
@@ -212,7 +212,7 @@ h3 {
 }
 
 h2 a {
-	color: #006747;
+	color: #9CCB3B;
 }
 
 h3 {
@@ -243,7 +243,7 @@ h5 {
 }
 
 h5 a {
-	color: #006747;
+	color: #9CCB3B;
 }
 
 h4 a {
@@ -370,7 +370,7 @@ iframe {
 #footer {
 	color: #928B81; 
 	padding: 13px 0 45px 0;
-	border-top: 9px solid #006747;
+	border-top: 9px solid #9CCB3B;
     
 }
 
