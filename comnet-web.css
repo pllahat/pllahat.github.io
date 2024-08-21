@@ -9,10 +9,10 @@ body {
 }
 
 a {
-	color: #9CCB3B;
+	color: #006747;
 }
 a:link {
-  color: #9CCB3B;
+  color: #006747;
   background-color: transparent;
   text-decoration: none;
   %text-decoration-style:wavy;
