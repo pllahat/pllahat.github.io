@@ -185,7 +185,7 @@ h3 {
 	font-weight: bold;
 	padding-bottom: 7px;
 	padding-top: 3px; /* ne */
-	border-top: 9px solid #7d55c7;
+	border-top: 9px solid #006747;
 }
 
 
@@ -212,7 +212,7 @@ h3 {
 }
 
 h2 a {
-	color: #7d55c7;
+	color: #006747;
 }
 
 h3 {
@@ -243,7 +243,7 @@ h5 {
 }
 
 h5 a {
-	color: #7d55c7;
+	color: #006747;
 }
 
 h4 a {
@@ -370,7 +370,7 @@ iframe {
 #footer {
 	color: #928B81; 
 	padding: 13px 0 45px 0;
-	border-top: 9px solid #7d55c7;
+	border-top: 9px solid #006747;
     
 }
 
